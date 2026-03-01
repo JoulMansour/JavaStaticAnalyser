@@ -1,4 +1,4 @@
-# Sjava Static Analyzer & Verifier 🛡️
+# Sjava Static Analyzer & Verifier
 
 A comprehensive Java-based compiler-verifier designed to parse and validate a simplified version of Java (Sjava). This project demonstrates advanced knowledge of **Regex**, **Recursive Logic**, and **Error Handling**.
 
