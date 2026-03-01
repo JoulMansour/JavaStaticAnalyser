@@ -40,11 +40,7 @@ public class Sjavac {
         } catch (SjavacException e) {
             System.out.println(1);
             System.err.println(e.getMessage());
-        } catch (Exception e) {
-            System.out.println(2);
-            System.err.println("ERROR: Unexpected error occurred - "
-                    + e.getMessage());
-            e.printStackTrace();
-        }
+        } 
     }
+
 }
